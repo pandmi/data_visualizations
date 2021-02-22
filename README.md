@@ -17,7 +17,7 @@ How to use:
 
 # Creative paths
 
-![](creative_paths.PNG)
+![](creative_paths.png)
 
 
 # Heat maps 
