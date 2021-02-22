@@ -29,7 +29,7 @@ How to use:
 
 - Change logs
 
-![](change_log.png)
+![](t1_change_log.png)
 
 
 
