@@ -10,10 +10,6 @@
 
 ![](zip_berlin.png)
 
-How to use: 
--...
-...
-...
 
 # Creative paths
 
